@@ -1,4 +1,4 @@
-<!-- <img src="https://github.com/PritamChk/PritamChk/blob/main/Github%20Banner.png" alt="Not Found" height="250" width="1920"> -->
+<img src="https://github.com/PritamChk/PritamChk/blob/main/Github%20Banner.png" alt="Not Found" height="250" width="1920">
 
 <h1 align="center">Hi 👋, I'm Pritam Chakraborty</h1>
 <h3 align="center">A passionate developer from India</h3>
