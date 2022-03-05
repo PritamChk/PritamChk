@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Blogapp API](https://github.com/PritamChk/BlogAPI)
 
-- 👨‍💻 All of my projects are available at [https://github.com/PritamChk/PritamChk](https://github.com/PritamChk/PritamChk)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/PritamChk?tab=repositories)
 
 - 💬 Ask me about **django, Rest Framework**
 
