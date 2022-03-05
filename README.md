@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pritamchakraborty2017@gmail.com**
 
-- ⚡ Fun fact **Foodie**
+- ⚡ Fun fact **Lazy AF**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
