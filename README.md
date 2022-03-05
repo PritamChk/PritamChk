@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on [Blogapp API](https://github.com/PritamChk/BlogAPI)
 
-- 👯 I’m looking to collaborate on [Blogapp API](https://github.com/PritamChk/BlogAPI)
-
 - 👨‍💻 All of my projects are available at [https://github.com/PritamChk/PritamChk](https://github.com/PritamChk/PritamChk)
 
-- 💬 Ask me about **django, FastAPI, Rest Framework**
+- 💬 Ask me about **django, Rest Framework**
 
 - 📫 How to reach me **pritamchakraborty2017@gmail.com**
 
